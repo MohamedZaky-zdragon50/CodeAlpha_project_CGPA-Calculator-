@@ -1,29 +1,30 @@
-CGPA Calculator 📊
+# CGPA Calculator 📊
 
-Project Overview
-
+## Project Overview
 The CGPA Calculator is designed to facilitate students' academic performance evaluation by computing their Cumulative Grade Point Average (CGPA). This tool helps students and academic advisors track academic progress by providing an accurate calculation based on input grades and credits for each course.
 
-How to Use
+## Team Members 👪
+**Project Leader:** [Your Name]  
+**Assistants:** [Add any collaborators if applicable]
 
-Input Grades: Enter the grades and corresponding credits for each course.
-Calculate CGPA: Use the provided functionality to compute the CGPA based on the entered data.
-View Results: The program displays the calculated CGPA and detailed breakdown of grades and credits.
+## How to Use
+1. **Input Grades:** Enter the grades and corresponding credits for each course.
+2. **Calculate CGPA:** Use the provided functionality to compute the CGPA based on the entered data.
+3. **View Results:** The program displays the calculated CGPA and detailed breakdown of grades and credits.
 
-System Capabilities
+## System Capabilities
+### User Roles
+- **Student**
 
-User Roles
-Student
-Student Capabilities
-Enter Data: Input grades and credits for each course.
-Calculate CGPA: Compute the CGPA based on the entered data.
-View Results: See the final CGPA and detailed report.
-Features
+### Student Capabilities
+- **Enter Data:** Input grades and credits for each course.
+- **Calculate CGPA:** Compute the CGPA based on the entered data.
+- **View Results:** See the final CGPA and detailed report.
 
-Simple and intuitive user interface.
-Accurate CGPA calculation.
-Detailed breakdown of grades and credits.
-Easy data input and results display.
+## Features
+- Simple and intuitive user interface.
+- Accurate CGPA calculation.
+- Detailed breakdown of grades and credits.
+- Easy data input and results display.
 
-This project was developed as a training exercise in C++ with CODEALPHA. It was built to enhance understanding of programming concepts and practices. 💖---------
-         
+This project was developed as a training exercise in C++ with CODEALPHA. It was built to enhance understanding of programming concepts and practices. 💖
