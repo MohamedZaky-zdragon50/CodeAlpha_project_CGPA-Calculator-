@@ -1,7 +1,7 @@
 # CGPA Calculator 📊
 
 ## Project Overview
-The CGPA Calculator is designed to facilitate students' academic performance evaluation by computing their Cumulative Grade Point Average (CGPA). This tool helps students and academic advisors track academic progress by providing an accurate calculation based on input grades and credits for each course.
+The CGPA Calculator is designed to facilitate students' academic performance evaluation by computing their Cumulative Grade Point Average (CGPA). This tool helps students and academic advisors track academic progress by providing an accurate calculation based on input grades and credits for each course. This project was developed as a training exercise with CODEALPHA to enhance understanding of programming concepts and practices.
 
 ## How to Use
 1. **Input Grades:** Enter the grades and corresponding credits for each course.
@@ -24,3 +24,4 @@ The CGPA Calculator is designed to facilitate students' academic performance eva
 - Easy data input and results display.
 
 This project was developed as a training exercise in C++ with CODEALPHA. It was built to enhance understanding of programming concepts and practices. 💖
+
